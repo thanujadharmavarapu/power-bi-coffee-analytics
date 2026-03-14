@@ -1,7 +1,7 @@
 # Coffee Sales Insights Dashboard
 
 **Project:** Microsoft Elevate Internship – Power BI  
-**Author:** [Your Name]  
+**Author:** Lakshmi Thanuja Dharmavarapu  
 
 ---
 
