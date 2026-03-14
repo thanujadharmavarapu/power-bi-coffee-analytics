@@ -26,17 +26,7 @@ This project is an **interactive Power BI dashboard** built during the Microsoft
 - **DAX (Data Analysis Expressions)** – Calculating measures for spend, cups sold, percentages, and peak hours.  
 - **CSV Data Source** – Coffee shop sales data.  
 - **Visualization Features** – KPI cards, line charts, column charts, donut charts, slicers, and buttons.  
-
 ---
-
-## Project Structure
-- **`CoffeeDashboard.pbix`** – Main Power BI file with all visualizations.  
-- **`dashboard-images/`** – Screenshots of the dashboard (optional).  
-- **`.gitignore`** – Excludes temporary and unnecessary files.  
-- **`README.md`** – Project description and instructions.  
-
----
-
 ## How to Use
 1. Download the `CoffeeDashboard.pbix` file.  
 2. Open it with **Microsoft Power BI Desktop**.  
